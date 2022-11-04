@@ -9,6 +9,8 @@
 
 * Silhouette score for a set of sample data points is used to measure how dense and well-separated the clusters are.
 
+
+# CONCLUSIONS :
 1)There are about 70% movies and 30% TV shows on Netflix.
 
 2)Data set contains 7787 rows and 12 columns in that cast and director features contains large number of missing values so we can drop it and we have 10 features for the further implementation
