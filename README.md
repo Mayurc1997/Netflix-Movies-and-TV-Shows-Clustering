@@ -1,12 +1,13 @@
 # Netflix-Movies-and-TV-Shows-Clustering
 
-LDA and LSA has sorted much more similar titles in a group of genre
 
-Recommendation system works perfectly well with description column
+* LDA and LSA has sorted much more similar titles in a group of genre
 
-After applying K - means optimal value of number of clusters is 5
+* Recommendation system works perfectly well with description column
 
-Silhouette score for a set of sample data points is used to measure how dense and well-separated the clusters are.
+* After applying K - means optimal value of number of clusters is 5
+
+* Silhouette score for a set of sample data points is used to measure how dense and well-separated the clusters are.
 
 1)There are about 70% movies and 30% TV shows on Netflix.
 
