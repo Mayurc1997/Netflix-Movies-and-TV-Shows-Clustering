@@ -5,7 +5,7 @@
 
 * Recommendation system works perfectly well with description column
 
-* After applying K - means optimal value of number of clusters is 5
+* After applying K - means optimal value of number of clusters is 4
 
 * Silhouette score for a set of sample data points is used to measure how dense and well-separated the clusters are.
 
