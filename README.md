@@ -3,6 +3,10 @@
 
 # NETFLIX MOVIES AND TV SHOWS CLUSTERING
 
+![download](https://user-images.githubusercontent.com/108193923/213866344-76b656a4-edbb-4d4b-aa7d-0dedf3fe50b1.png)
+
+
+
 # [AlmaBetter Verified Project](www.almabetter.com)
 
 I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.
