@@ -3,7 +3,7 @@
 
 # NETFLIX MOVIES AND TV SHOWS CLUSTERING
 
-AlmaBetter Verfied Project - AlmaBetter
+# [AlmaBetter Verified Project](www.almabetter.com)
 
 I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.
 
@@ -67,3 +67,7 @@ The full code for this article can be found here. It is implemented in Python an
 
 ## Conclusion:
 In conclusion, tailored recommendations can be made based on information about movies and TV shows. In addition, similar models can be developed to provide valuable recommendations to consumers in other domains. It will solve for improved movie and TV-Show selection times with a considerable growth in satisfaction of the content being consumed leading to more user engagement and greater trust in Netflix recommendations.
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-chulbhare/)
